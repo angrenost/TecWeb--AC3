@@ -1,0 +1,36 @@
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+.title {
+    font-size: 200%;
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+
+.intro {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: #4AFF00;
+}
+
+.coluna{
+	background-color: #2A9A0C;
+	color: white
+}
+
+.preenchimento{
+	background-color: red;
+	color: yellow
+}
